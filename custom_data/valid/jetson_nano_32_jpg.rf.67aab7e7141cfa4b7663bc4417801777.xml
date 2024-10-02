@@ -1,0 +1,47 @@
+<annotation>
+	<folder></folder>
+	<filename>jetson_nano_32_jpg.rf.67aab7e7141cfa4b7663bc4417801777.jpg</filename>
+	<path>jetson_nano_32_jpg.rf.67aab7e7141cfa4b7663bc4417801777.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jetson Nano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>326</xmin>
+			<xmax>419</xmax>
+			<ymin>188</ymin>
+			<ymax>271</ymax>
+		</bndbox>
+		<polygon>
+			<x1>403.790187</x1>
+			<y1>198.730964</y1>
+			<x2>392.961083</x2>
+			<y2>200.253807</y2>
+			<x3>387.546531</x3>
+			<y3>187.055838</y3>
+			<x4>325.279188</x4>
+			<y4>199.746193</y4>
+			<x5>355.73604</x5>
+			<y5>269.796954</y5>
+			<x6>413.942471</x6>
+			<y6>253.553299</y6>
+			<x7>409.881557</x7>
+			<y7>243.401015</y7>
+			<x8>418.003384</x8>
+			<y8>240.862944</y8>
+			<x9>403.790187</x9>
+			<y9>198.730964</y9>
+		</polygon>
+	</object>
+</annotation>
